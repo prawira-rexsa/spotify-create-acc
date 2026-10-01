@@ -1,6 +1,6 @@
 <div align="center">
 
-# ?? Spotify Create Account
+#    Spotify Create Account
 
 **Auto-create multiple Spotify accounts from a list. Batch. Headless-friendly. No manual input.**
 
